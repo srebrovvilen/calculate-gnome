@@ -73,7 +73,7 @@ icon-theme='Adwaita'
 [desktop/screensaver]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/calculate/Calculate%20Linux%2015.jpg'
+picture-uri='file:///usr/share/backgrounds/calculate/Calculate%20Linux.jpg'
 primary-color='#000000'
 secondary-color='#000000'
 
