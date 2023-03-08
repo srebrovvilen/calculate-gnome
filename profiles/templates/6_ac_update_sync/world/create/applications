@@ -3,7 +3,3 @@
 #?in(os_linux_pkglist, CLDG)!=#
 app-office/libreoffice-bin
 #in#
-
-#?in(os_linux_pkglist, CLDG)!=#
-app-text/fbreader
-#in#
