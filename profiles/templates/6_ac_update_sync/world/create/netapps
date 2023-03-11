@@ -10,7 +10,7 @@ net-misc/whois
 #in#
 
 #?in(os_linux_pkglist, CLDG)!=#
-www-client/chromium-bin
+www-client/chromium
 #in#
 
 #?in(os_linux_pkglist, CLDG)!=#
