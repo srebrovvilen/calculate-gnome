@@ -1,0 +1,4 @@
+# Calculate exec=/bin/bash
+
+desktop-file-install --mode=0755 --dir=$HOME/Desktop ~/Desktop/calculate-install.desktop
+dbus-launch gio set ~/Desktop/calculate-install.desktop "metadata::trusted" true
