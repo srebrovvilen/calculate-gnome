@@ -87,7 +87,7 @@ button-layout='appmenu:minimize,maximize,close'
 app-picker-layout=[{'Multimedia': <{'position': <0>}>, 'Graphics': <{'position': <1>}>, 'Internet': <{'position': <2>}>, 'Office': <{'position': <3>}>, 'System': <{'position': <4>}>, 'Accessories': <{'position': <5>}>, 'Utilities': <{'position': <6>}>, 'Settings': <{'position': <7>}>}]
 disable-user-extensions=false
 enabled-extensions=['appindicatorsupport@rgcjonas.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'applications-overview-tooltip@RaphaelRochet', 'ControlBlurEffectOnLockScreen@pratap.fastmail.fm', 'MaximizeToEmptyWorkspace-extension@kaisersite.de', 'ding@rastersoft.com', 'RemoveAppMenu@Dragon8oy.com', 'blur-my-shell@aunetx']
-favorite-apps=['chromium-browser-chromium.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Polari.desktop', 'libreoffice-startcenter.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Photos.desktop', 'org.gnome.Music.desktop', 'org.gnome.Totem.desktop', 'org.gnome.TextEditor.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'cl-console-gui-update.desktop', 'cl-console-gui-install.desktop']
+favorite-apps=['chromium-browser-chromium.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Polari.desktop', 'libreoffice-startcenter.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Photos.desktop', 'org.gnome.Music.desktop', 'org.gnome.Totem.desktop', 'org.gnome.TextEditor.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'cl-console-gui-update.desktop']
 
 [shell/extensions/blur-my-shell/applications]
 blur=false
