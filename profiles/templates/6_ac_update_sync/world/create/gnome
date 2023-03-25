@@ -4,4 +4,5 @@
 gnome-base/gnome
 gnome-extra/gnome-browser-connector
 gnome-extra/gnome-power-manager
+gnome-extra/gnome-shell-extension-dash-to-dock
 #in#
