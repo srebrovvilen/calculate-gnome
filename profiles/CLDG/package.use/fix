@@ -1,2 +1,0 @@
-# media-plugins/gst-plugins-meta[dts] conflicts with abi_x86_32 
-media-plugins/gst-plugins-meta -dts
