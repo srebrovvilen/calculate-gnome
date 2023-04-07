@@ -1,0 +1,1 @@
+# Calculate append=remove path=/usr/share/applications name=gnome-mimeapps.list exists(/usr/share/applications/gnome-mimeapps.list)==f

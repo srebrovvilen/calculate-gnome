@@ -1,0 +1,24 @@
+# office
+app-office/libreoffice -eds
+
+# virtualization
+app-emulation/virt-manager gui
+
+# Python Imaging Library (fork) 
+dev-python/pillow xcb
+
+# GNOME without games by default
+gnome-base/gnome-extra-apps -games
+
+# Transmission
+net-p2p/transmission -qt5 gtk
+
+# Improves performance in games that use Proton by Valve
+sys-kernel/calculate-sources fsync
+
+# power-profiles-daemon
+sys-power/power-profiles-daemon orcrun
+
+# gnome-terminal
+x11-terms/gnome-terminal gnome-shell
+
