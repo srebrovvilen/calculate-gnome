@@ -1,5 +1,0 @@
-# Calculate name=world format=world
-
-#?in(os_linux_pkglist, CLDG)!=#
-app-office/libreoffice-bin
-#in#

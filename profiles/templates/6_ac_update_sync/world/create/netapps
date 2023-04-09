@@ -13,7 +13,3 @@ net-misc/whois
 www-client/chromium
 #in#
 
-#?in(os_linux_pkglist, CLDG)!=#
-net-p2p/qbittorrent
-#in#
-

@@ -91,4 +91,3 @@ x11-misc/colord vala -scanner
 dev-libs/glib -sysprof
 net-libs/libsoup -sysprof
 x11-libs/pango -sysprof
-

@@ -89,28 +89,6 @@ disable-user-extensions=false
 enabled-extensions=['appindicatorsupport@rgcjonas.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'ding@rastersoft.com']
 favorite-apps=['chromium-browser-chromium.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Polari.desktop', 'libreoffice-startcenter.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Photos.desktop', 'org.gnome.Music.desktop', 'org.gnome.Totem.desktop', 'org.gnome.TextEditor.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'cl-console-gui-update.desktop']
 
-[shell/extensions/blur-my-shell/applications]
-blur=false
-
-[shell/extensions/blur-my-shell/dash-to-dock]
-blur=false
-
-[shell/extensions/blur-my-shell/overview]
-blur=true
-brightness=0.80000000000000004
-customize=true
-style-components=1
-
-[shell/extensions/blur-my-shell/panel]
-blur=true
-brightness=0.68000000000000005
-customize=true
-override-background-dynamically=true
-static-blur=true
-style-panel=0
-unblur-dynamically=true
-unblur-in-overview=false
-
 [shell/extensions/dash-to-dock]
 apply-custom-theme=false
 background-opacity=0.80000000000000004
