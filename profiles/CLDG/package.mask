@@ -1,2 +1,0 @@
-# default
-gnome-base/gnome-control-center::gentoo
