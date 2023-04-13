@@ -1,0 +1,34 @@
+# Calculate format=world name=world ini(calculate-gnome.world)<#-cut()-#
+
+#-ini(calculate-gnome.world,#-cut()-#)-#
+
+#?in(os_linux_pkglist, CLDG)!=#
+!gnome-base/gnome
+gnome-base/gnome-core-libs
+gnome-base/gnome-session
+gnome-base/gnome-settings-daemon
+gnome-base/gnome-control-center
+gnome-extra/gnome-color-manager
+app-crypt/gcr
+gnome-base/nautilus
+gnome-base/gnome-keyring
+gnome-extra/evolution-data-server
+app-crypt/seahorse
+app-editors/gnome-text-editor
+app-text/evince
+gnome-extra/gnome-contacts
+media-gfx/eog
+media-video/totem
+x11-terms/gnome-terminal
+gnome-extra/gnome-user-docs
+gnome-extra/yelp
+x11-themes/adwaita-icon-theme
+net-wireless/gnome-bluetooth
+gnome-base/gdm
+x11-wm/mutter
+gnome-base/gnome-shell
+media-fonts/cantarell
+x11-themes/gnome-backgrounds
+x11-themes/sound-theme-freedesktop
+gnome-extra/gnome-shell-extensions
+#in#
