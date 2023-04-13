@@ -1,4 +1,4 @@
-# Calculate format=world name=world
+# Calculate name=world format=world
 
 #?in(os_linux_pkglist, CLDG)!=#
 sys-apps/flatpak
