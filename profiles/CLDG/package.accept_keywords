@@ -1,0 +1,2 @@
+# required by sys-power/power-profiles-daemon (argument)
+sys-power/power-profiles-daemon ~amd64

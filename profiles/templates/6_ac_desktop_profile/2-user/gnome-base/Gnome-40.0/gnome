@@ -68,7 +68,7 @@ enable-animations=true
 font-antialiasing='grayscale'
 font-hinting='slight'
 gtk-theme='Adwaita-dark'
-icon-theme='Adwaita'
+icon-theme='Calculate'
 
 [desktop/screensaver]
 color-shading-type='solid'
@@ -86,7 +86,7 @@ button-layout='appmenu:minimize,maximize,close'
 [shell]
 app-picker-layout=[{'Multimedia': <{'position': <0>}>, 'Graphics': <{'position': <1>}>, 'Internet': <{'position': <2>}>, 'Office': <{'position': <3>}>, 'System': <{'position': <4>}>, 'Accessories': <{'position': <5>}>, 'Utilities': <{'position': <6>}>, 'Settings': <{'position': <7>}>}]
 disable-user-extensions=false
-enabled-extensions=['appindicatorsupport@rgcjonas.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'ding@rastersoft.com']
+enabled-extensions=['enhunceactivitiese@github.com.orbitcorrection', 'appindicatorsupport@rgcjonas.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'ding@rastersoft.com']
 favorite-apps=['chromium-browser-chromium.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Polari.desktop', 'libreoffice-startcenter.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Photos.desktop', 'org.gnome.Music.desktop', 'org.gnome.Totem.desktop', 'org.gnome.TextEditor.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'cl-console-gui-update.desktop']
 
 [shell/extensions/dash-to-dock]
