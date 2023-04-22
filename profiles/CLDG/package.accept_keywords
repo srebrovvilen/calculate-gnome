@@ -1,3 +1,4 @@
-# required by sys-power/power-profiles-daemon (argument)
+gnome-extra/gnome-shell-extension-dash-to-dock ~amd64
+gnome-extra/gnome-shell-extension-just-perfection ~amd64
 sys-power/power-profiles-daemon ~amd64
 =x11-wm/mutter-43.4 ~amd64
