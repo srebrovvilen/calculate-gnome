@@ -72,6 +72,9 @@ net-p2p/transmission -qt5 gtk
 # Gnome-terminal
 x11-terms/gnome-terminal gnome-shell
 
+# For gnome-software
+gnome-extra/gnome-software flatpak
+
 # There is a cyclic dependency of packages with USE="gnome"
 media-libs/libcanberra -gnome sound
 

@@ -72,6 +72,7 @@ media-gfx/shotwell
 app-misc/tracker
 app-misc/tracker-miners
 
+gnome-extra/gnome-software
 # extensions
 gnome-extra/gnome-browser-connector
 gnome-extra/gnome-shell-extension-dash-to-dock
