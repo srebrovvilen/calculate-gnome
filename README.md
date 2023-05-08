@@ -1,6 +1,12 @@
 # calculate-gnome
-Gnome Profile for Calculate Linux Desktop  
+
+## Gnome Profile for Calculate Linux Desktop  
+
+This is a fork based on the original https://github.com/nemofsan/calculate-gnome the project. It is created for personal use and experiments for me. Recommend using the original Nemofsan project first.
 
 ***This is an unofficial and very experimental profile! Only for home use at your own risk!!!*** 
 
-![Снимок экрана от 2023-04-15 17-10-33](https://user-images.githubusercontent.com/127089814/232235518-d7f4ed4a-ac44-4b52-b212-d39a567a1688.png)
+Also, you should understand that this profile is an unofficial Calculate Linux profile. And you may encounter some difficulties and problems in the process of using this profile. If you are not sure that you have sufficient knowledge and experience to solve possible problems, it is better to abandon the use of the calculate-gnome profile in favor of using the official profiles of Calculate Linux distributions.
+
+The official website of the Calculate Linux project: https://www.calculate-linux.org  
+Calculate Linux project on GitHub: https://github.com/calculatelinux  
