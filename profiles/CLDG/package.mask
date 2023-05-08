@@ -1,4 +1,4 @@
 #bug: Window lost focus when switching layouts Win+Space in wm/mutter 43.3
 =x11-wm/mutter-43.3
-#bug: Some applications icons are missing in x11-themes/adwaita-icon-theme-44.0
+#temporary fix: Some applications icons are missing in x11-themes/adwaita-icon-theme-44.0
 =x11-themes/adwaita-icon-theme-44.0
