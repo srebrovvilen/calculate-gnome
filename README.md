@@ -2,7 +2,7 @@
 
 ## Gnome Profile for Calculate Linux Desktop  
 
-This is a fork based on the original https://github.com/nemofsan/calculate-gnome the project. It is created for personal use and experiments for me. Recommend using the original Nemofsan project first.
+This is a fork based on the original https://github.com/nemofsan/calculate-gnome the project. It is created for personal use and experiments for me. Recommend using the original Nemofsan's project first.
 
 ***This is an unofficial and very experimental profile! Only for home use at your own risk!!!*** 
 
