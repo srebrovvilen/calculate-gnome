@@ -2,3 +2,4 @@
 
 [Desktop Entry]
 OnlyShowIn=KDE;LXQt;LXDE;MATE;Razor;ROX;TDE;Unity;XFCE;GNOME;Old
+Exec=cl-console-gui --method update
