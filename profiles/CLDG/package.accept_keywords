@@ -1,5 +1,3 @@
 gnome-extra/gnome-shell-extension-dash-to-dock ~amd64
 gnome-extra/gnome-shell-extension-just-perfection ~amd64
 gnome-extra/gnome-software ~amd64
-gui-libs/gtk ~amd64
-gnome-base/nautilus ~amd64
