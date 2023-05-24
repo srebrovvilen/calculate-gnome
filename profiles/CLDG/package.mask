@@ -1,2 +1,0 @@
-#temporary fix: Some applications icons are missing in x11-themes/adwaita-icon-theme-44.0
-=x11-themes/adwaita-icon-theme-44.0
