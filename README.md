@@ -1,4 +1,4 @@
-# calculate-gnome
+# Calculate Linux Desktop GNOME
 
 ## Gnome Profile for Calculate Linux Desktop  
 
