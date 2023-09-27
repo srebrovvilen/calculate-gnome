@@ -1,3 +1,6 @@
 gnome-extra/gnome-shell-extension-dash-to-dock ~amd64
 gnome-extra/gnome-shell-extension-just-perfection ~amd64
 gnome-extra/gnome-software ~amd64
+
+#For fixing error of the gnome-software-45 https://github.com/fwupd/fwupd/issues/6101
+=sys-apps/fwupd-1.9.5 ~amd64
