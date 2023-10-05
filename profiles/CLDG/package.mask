@@ -1,3 +1,2 @@
 # Temporary masks the problem packages. See https://t.me/calculate_rus/298183
 =sys-apps/calculate-utils-3.7.4.2-r1
-=sys-apps/portage-3.0.51
