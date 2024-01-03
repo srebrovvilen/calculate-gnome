@@ -86,3 +86,8 @@ x11-misc/wmctrl
 app-portage/cpuid2cpuflags
 app-misc/resolve-march-native
 #in#
+
+#?in(os_linux_pkglist, CLDG)!=#
+x11-drivers/xf86-video-qxl
+app-emulation/spice-vdagent
+#in#
