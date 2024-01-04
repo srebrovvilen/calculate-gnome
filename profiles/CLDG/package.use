@@ -69,6 +69,9 @@ net-p2p/transmission -qt5 gtk
 # The package may not compile using USE="gnome"
 # x11-wm/mutter -gnome
 
+# Required by x11-wm/mutter-45.1[wayland]
+>=x11-base/xwayland-23.2.1 libei
+
 # Gnome-terminal
 x11-terms/gnome-terminal gnome-shell
 
