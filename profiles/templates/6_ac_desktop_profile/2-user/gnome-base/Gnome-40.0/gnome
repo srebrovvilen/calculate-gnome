@@ -106,12 +106,6 @@ show-home=false
 show-trash=false
 show-volumes=false
 
-[shell/extensions/just-perfection]
-activities-button-icon-monochrome=false
-activities-button-icon-path='file:///usr/share/pixmaps/calculate/start-here-blue.svg'
-app-menu=false
-startup-status=0
-
 [terminal/legacy]
 theme-variant='dark'
 
