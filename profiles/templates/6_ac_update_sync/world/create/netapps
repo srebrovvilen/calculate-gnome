@@ -11,5 +11,6 @@ net-misc/whois
 
 #?in(os_linux_pkglist, CLDG)!=#
 www-client/chromium
+www-plugins/chrome-binary-plugins
 #in#
 
