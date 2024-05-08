@@ -58,6 +58,7 @@ gnome-extra/gnome-system-monitor
 gnome-extra/gnome-weather
 gnome-extra/gucharmap
 gnome-extra/sushi
+gnome-extra/nautilus-backspace
 media-sound/sound-juicer
 
 gnome-base/dconf-editor
