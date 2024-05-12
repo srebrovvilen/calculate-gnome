@@ -1,0 +1,4 @@
+# Calculate path=/usr/sbin chmod=755
+#!/bin/sh
+set -e
+exec grub-mkconfig -o /boot/grub/grub.cfg "$@"
