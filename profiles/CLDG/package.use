@@ -78,6 +78,9 @@ x11-terms/gnome-terminal gnome-shell
 # For gnome-software
 gnome-extra/gnome-software flatpak
 
+# Add support for ACL
+sys-auth/elogind acl
+
 # There is a cyclic dependency of packages with USE="gnome"
 media-libs/libcanberra -gnome sound
 
